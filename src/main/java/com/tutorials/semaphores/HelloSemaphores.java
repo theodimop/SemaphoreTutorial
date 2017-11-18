@@ -1,3 +1,4 @@
+package com.tutorials.semaphores;
 
 import java.util.concurrent.Semaphore;
 
